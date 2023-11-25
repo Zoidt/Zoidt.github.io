@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-### Header for projects and tech I'm interested in
+### School related
 
 to list
 
