@@ -8,6 +8,8 @@ collection: portfolio
 
 This was in teams, we had just barely been introduced to React and had a very strict deadline to pick things up quickly and deliver a working website
 
+[See the code here](https://github.com/JeanRose-JAC/Bakery)
+
 ## Functionality
 
 Whole heap of CRUD functionality with account and recipe creation.
