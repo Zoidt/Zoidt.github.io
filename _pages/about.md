@@ -15,9 +15,9 @@ and [Projects/stuff](https://zoidt.github.io/projects/) I think is pretty cool t
 
 ## Site Layout
 
-[Projects]() contains either work projects that are work in progress or various tools that I am trying to integrate into projects!
+[Projects](https://zoidt.github.io/projects/) contains either work projects that are work in progress or various tools that I am trying to integrate into projects!
 
-[Portfolio]() contains (at the moment) cool school projects th
+[Portfolio](https://zoidt.github.io/portfolio/) contains (at the moment) cool school projects th
 
 ## Credits
 
