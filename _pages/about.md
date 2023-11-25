@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# hello hello
+## 👋 hello hello
 
 There isn't much interesting here, but feel free to checkout [My Portfolio](https://zoidt.github.io/portfolio/)
 and [Projects/stuff](https://zoidt.github.io/projects/) I think is pretty cool that I want to learn more about.
