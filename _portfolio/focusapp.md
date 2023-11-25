@@ -1,6 +1,6 @@
 ---
 title: "FocusApp in Jetpack Compose"
-excerpt: "Android app built with compose<br/><img src='/images/500x300.png'>"
+excerpt: "Android app built with compose<br/><img src='/images/FocusApp/Focus_MainScreen.png'>"
 collection: portfolio
 ---
 
