@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-# To Start
+These are "aspirations" of sorts, they're ideas and projects I either want to mimic or explore and build for myself
 
 ## ChatGBT Agent
 
