@@ -1,6 +1,6 @@
 ---
 title: "My First MVC Team Project!"
-excerpt: "A bakery website made using RESTFul APIs, MVC and mongo db<br/><img src='/images/500x300.png'>"
+excerpt: "A bakery website made using RESTFul APIs, MVC and mongo db<br/><img src='/images/Profile/profile-cat.png'>"
 collection: portfolio
 ---
 
