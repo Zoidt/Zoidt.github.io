@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Formal CV](https://github.com/Zoidt/Zoidt.github.io/blob/52b2eaf5dd075ee701f9fcd1d81a85b0c247e67e/files/paper2.pdf)
+[Formal CV](https://github.com/Zoidt/Zoidt.github.io/blob/91612526257f52c006f132862f2f39be044b1955/files/CV_MS_ZaidTabana.pdf#L1)
+
 # Education
 
 - DEC in Computer Science Technology, John Abbott College, 2024 (Expected)
