@@ -11,9 +11,8 @@ redirect_from:
 
 # Education
 
-- B.S. in GitHub, GitHub University, 2012
-- M.S. in Jekyll, GitHub University, 2014
-- Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+- DEC in Computer Science Technology, John Abbott College, 2024 (Expected)
+- B. in Computer Science, Concordia University, 2027 (expected)
 
 # Work experience
 
@@ -21,14 +20,31 @@ Outside of school [projects](https://zoidt.github.io/projects/)
 
 - Winter 2024 (upcoming): AI Support System
 
-  - UdeM and Vanier research project
-  - Using AI to help cegep students with Calculus 1 courses
+  - Research project with UdeM and Vanier professors
+  - Using AI to help college students with Calculus 1 courses
 
-# Skills
+# Languages
 
-- Skill 1
-- Skill 2
-  - Sub-skill 2.1
-  - Sub-skill 2.2
-  - Sub-skill 2.3
-- Skill 3
+- C#
+- Java
+- JavaScript
+  - React
+  - JQuery
+  - CSS (Criminally beginner)
+- Python (Beginner, learning)
+- Bash
+- PHP
+
+# Tech
+
+- Databases
+  - MongoDB
+  - SQL
+  - SQLLite
+  - Firebase
+- IDES
+  - VSCode,
+  - VS
+  - Intellij
+  - Android Studio
+-
