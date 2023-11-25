@@ -14,6 +14,9 @@ CRUD
 
 Add images here:
 
+We actually tried setting this up to be up on [render](https://bakery-frontend.onrender.com/) but only the front page works
+Unfortunately none of the buttons work
+
 ## Contributors
 
 Team members who worked really hard along side me to get this project delivered
