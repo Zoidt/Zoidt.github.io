@@ -5,6 +5,11 @@ permalink: /ai/
 author_profile: true
 ---
 
-### AI Projects
+# AI things I think are really cool
 
-## Cool AI things I found
+## Andrew Huberman AI
+
+[This AI](https://dexa.ai/huberman) essentially scraped every single one Andrew Hubermans podcast and can be used to find the exact episode and timestamp
+where a specific topic was covered!
+
+[Open source repo](https://github.com/dexaai)
