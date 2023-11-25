@@ -13,17 +13,13 @@ redirect_from:
 # hello hello
 
 There isn't much interesting here, but feel free to checkout [my portfolio](https://zoidt.github.io/portfolio/)
-Or [projects and tech](https://zoidt.github.io/cv/) I think is pretty cool and am actively trying to learn about
+Or [projects and tech](https://zoidt.github.io/projects/) I think is pretty cool and am actively trying to learn about
 
 ## Site Layout
 
-## Portfolio 
+## Portfolio
 
-
-## What interests me 
-
-
-
+## What interests me
 
 ## Credits
 
