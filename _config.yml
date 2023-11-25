@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Zaids Portfolio"
+title: "Zaid's Page"
 title_separator: "-"
 name: &name "Zaid Tabana"
 description: &description "My description in _config.yml"
