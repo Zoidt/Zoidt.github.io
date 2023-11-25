@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-### First Section
-
 # hello hello
 
 There isn't much interesting here, but feel free to checkout [My Portfolio](https://zoidt.github.io/portfolio/)
