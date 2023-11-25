@@ -1,14 +1,5 @@
 # main links links
 main:
-  #- title: "Publications"
-  #  url: /publications/
-
-  # - title: "Talks"
-  #  url: /talks/
-
-  #- title: "Teaching"
-  #  url: /teaching/
-
   - title: "Portfolio"
     url: /portfolio/
 
@@ -17,6 +8,14 @@ main:
 
   - title: "CV"
     url: /files/paper1.pdf/
+  #- title: "Publications"
+  #  url: /publications/
+
+  # - title: "Talks"
+  #  url: /talks/
+
+  #- title: "Teaching"
+  #  url: /teaching/
 
   #- title: "Guide"
   #  url: /markdown/
