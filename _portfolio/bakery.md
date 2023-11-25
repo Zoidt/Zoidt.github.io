@@ -1,6 +1,6 @@
 ---
 title: "Bakery App"
-excerpt: "A bakery website made using RESTFul APIs, MVC and mongo db<br/><a> href="https://zoidt.github.io/portfolio/bakery/" <img src='/images/Bakery/BakeryFirstView.png'></a>"
+excerpt: "A bakery website made using RESTFul APIs, MVC and mongo db<br/><img src='/images/Bakery/BakeryFirstView.png'>"
 collection: portfolio
 ---
 
