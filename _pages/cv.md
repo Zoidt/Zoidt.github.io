@@ -47,5 +47,4 @@ Outside of school [projects](https://zoidt.github.io/projects/)
   - VSCode,
   - VS
   - Intellij
-  - Android Studio
--
+  
